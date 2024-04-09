@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Neucha&family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Reddit+Mono:wght@200..900&display=swap');
+
+.h2{
+    font-size: 10px;
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 3px;
+    font-variation-settings:
+    
+      "wdth" 100;
+}
+
+.p{
+    text-align: center;
+}
+
+.bio{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.brief{
+    font-size: 14px;
+    padding: 10px;
+}

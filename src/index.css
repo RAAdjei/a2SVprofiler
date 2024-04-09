@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Neucha&family=Reddit+Mono:wght@200..900&display=swap');
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Reddit Mono", monospace;
+  font-optical-sizing: auto;
+
+
+}
+
+body{
+  
+  background-color: linear-gradient(#ffffff, #f6aefc);
+}
+
+a{
+  text-decoration: none;
+  color: inherit;
+  line-height: 1;
+  cursor: pointer;
+}
+
