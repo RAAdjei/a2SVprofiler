@@ -7,6 +7,7 @@ import linked from '../assets/linkedin.svg';
 
 function Socials() {
   return (
+    // containers for each social media logo
     <div className='soc'>
         <div className='twitter'>
         <img src= {twit} alt='profile' className='tweet'></img>

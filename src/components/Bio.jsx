@@ -1,6 +1,7 @@
 import React from 'react'
 import './Bio.css'
 
+// Bio component with the properties of name, position and statement
 function Bio({name, position, statement}) {
   return (
     <div className='bio'>

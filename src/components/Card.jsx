@@ -10,15 +10,12 @@ function Card({children}) {
     <div className='container'>
       <div className='card'>
         {children}
-
         <div className='info'>
           <Bio
             name={'Michael Chandler'}
             position={'Senoir Software Engineer'}
             statement={'I am a goal driven individual, looking to use my skills to make positive imapct in the world'}
-
           />
-
         </div>
 
         <div className='button'>
@@ -26,20 +23,14 @@ function Card({children}) {
             Hire me
           </button>
         </div>
-
-             
-        
       </div>
       <div className='divide'>
         <hr className='divider'/>
       </div>
-
-
       <div className='soci'>
         <Socials/>
       </div>
-        
-
+      
     </div>
    
   );

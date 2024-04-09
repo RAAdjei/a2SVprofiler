@@ -4,6 +4,7 @@ import Avatar from './components/Avatar';
 
 export default function App() {
   return (
+    // The card component imported having children of avatar card
     <>
     <div className='App'>
       <Card>
